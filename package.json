@@ -1,6 +1,6 @@
 {
   "name": "ember-power-select",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "The extensible select component built for ember",
   "keywords": [
     "ember-addon",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/cibernox/ember-power-select.git"
+    "url": "http://github.com/jesusalc/ember-power-select.git"
   },
   "license": "MIT",
   "author": {
